@@ -11,7 +11,7 @@
 ## HeyAtlas Todo App 
 
 </div>
-VueJS, Laravel, Myssql ve (Bootstrap,TailwindCss) teknojilerini kullanarak  basit bir todo list uygulaması yapalım.
+VueJS, Laravel, MySql ve (Bootstrap,TailwindCss) teknojilerini kullanarak  basit bir todo list uygulaması yapalım.
 
 #### Uygulama Detayları
 
